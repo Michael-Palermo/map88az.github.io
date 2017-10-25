@@ -1,3 +1,7 @@
 body {
 	background-image: url('../img/city.gif');
 }
+
+.jumbrotron {
+	opacity: -1;
+}
